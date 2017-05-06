@@ -18,10 +18,10 @@ The unique ids of the creators and distributors per trending topic. The data cor
 - trending_topics_list368.json
 The list of the 368 trending topics in our project.
 
-- FollowersCreators_perTrendingTopic
+- FollowersCreators_perTrendingTopic (too big, ask to lorena.recalde@upf.edu)
 Folder with a list of files with the followers of the creators. A file corresponds to a trending topic creators (and their followers). Those files are used to create the graphs.
 
-- FollowersDistributors_perTrendingTopic
+- FollowersDistributors_perTrendingTopic (too big, ask to lorena.recalde@upf.edu)
 Folder with a list of files with the followers of the distributors. A file corresponds to a trending topic distributors (and their followers). Those files are used to create the graphs.
 
 - Retweeting_graphs368
